@@ -1,1 +1,24 @@
+.hidden {
+  display: none;
+}
+
+#quiz-section {
+  margin-top: 2em;
+}
+
+#quiz-options button {
+  background-color: #FFD700;
+  border: none;
+  padding: 0.5em 1em;
+  margin: 0.5em;
+  font-size: 1em;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+#quiz-feedback img {
+  max-width: 200px;
+  opacity: 0.6;
+  margin-top: 1em;
+}
 
